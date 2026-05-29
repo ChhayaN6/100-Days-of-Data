@@ -22,5 +22,12 @@ or key learnings from something I read.
 
 > *"Small daily improvements lead to stunning results."*
 
+> ## My Progress
+| Day | Topic | Link |
+|-----|-------|------|
+| 001 | SQL Window Functions | [Day 1](./Day001/) |
+| 002 | Power BI DAX Practice | [Day 2](./Day002/) |
+| 003 | Python Pandas Cleaning | [Day 3](./Day003/) |
+
 ---
 Follow my journey on LinkedIn → [chhaya-naidu06](https://linkedin.com/in/chhaya-naidu06)
