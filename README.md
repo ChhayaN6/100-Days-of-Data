@@ -10,7 +10,7 @@ work — whether it's a SQL query, a Power BI insight, a Python cleaning script,
 or key learnings from something I read.
 
 ### 🎯 My Goals
-- Strengthen hands-on skills in SQL, Power BI, and Python
+- Strengthen hands-on skills in Advanced Excel, SQL, Power BI, and Python
 - Build a daily habit of working with data
 - Create a portfolio of real, documented practice work
 - Connect with the data community 🌍
