@@ -1,6 +1,6 @@
 # 100-Days-of-Data
 📊 My 100-day public commitment to learning and practicing Data Analytics daily — SQL, Power BI, Python &amp; more.
-## 👩‍💻 About This Challenge
+##  About This Challenge
 
 Hi, I'm **Chhaya Naidu** — a Data Analyst and Power BI Developer from Bengaluru, India.
 
